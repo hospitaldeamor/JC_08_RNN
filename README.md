@@ -2,13 +2,12 @@
 
 Este repositório contém códigos e dados para a implementação de uma **Rede Neural Recorrent (RNN)**. 
 A aplicação é focada em dados de câncer contando com dados de texto médico.
-O objetivo final é avaliar a apicação de RNNs utilizando textos médicas para classificação de tumor.
+O objetivo final é avaliar a apicação de RNNs utilizando textos médicas para classificação de tumor baseado em um input the texto.
 
 ## 📌 Objetivos do Projeto
 
 - Tratamento dos dados 
 - Implementação e desenvolvimento de uma RNN simples
-- Comparação da RNN simples com um LSMT
 - Avaliação do desempenho do classificador através de diferentes métricas de performance.
 ---
 ## 📂 Dados
