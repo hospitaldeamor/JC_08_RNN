@@ -13,7 +13,7 @@ O objetivo final é avaliar a apicação de RNNs utilizando textos médicas para
 ---
 ## 📂 Dados
 
-- **Conjunto de Dados**: 
+- **Conjunto de Dados**: [Biomedical Text Publications](https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification)
 ---
 ## 🛠️ Código e Recursos Utilizados
 
