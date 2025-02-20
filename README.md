@@ -32,7 +32,7 @@ git clone https://github.com/hospitaldeamor/JC_08_RNN.git
 ```
 2. Abrir diretamente no Google Colab:
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XGlRn1qJ0uQBKDxlA-H5Sw41k6fT31ic?usp=sharing)
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tstGiOLpyrG3X1V901IV4sO2hi0RTx-V?usp=sharing)
 
 ---
 ## 📚 **Material Didático**
