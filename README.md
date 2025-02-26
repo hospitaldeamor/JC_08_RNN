@@ -28,7 +28,7 @@ Bibliotecas:
 Instalação:
 1. Você pode clonar o repositório em seu computador:
 ```
-git clone https://github.com/hospitaldeamor/JC_09_LSTM_GRU.git
+git clone https://github.com/hospitaldeamor/JC_08_RNN.git
 ```
 2. Abrir diretamente no Google Colab:
 
